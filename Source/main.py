@@ -1,5 +1,4 @@
-import pygame
-import sys
+import pygame, sys
 
 from const import *
 from game import Game
